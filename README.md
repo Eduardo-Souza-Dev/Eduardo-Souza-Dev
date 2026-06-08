@@ -8,7 +8,7 @@ Atualmente na **PwC** como Dev Frontend, e desenvolvendo projetos próprios nas 
 
 ---
 
-### 🛠 Stack
+### Stack
 
 **Frontend**
 
@@ -66,7 +66,7 @@ Sistema de gestão para locadoras de equipamentos. Laravel com multi-tenancy, si
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p align="left">
   <img
