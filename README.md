@@ -76,4 +76,4 @@ Biblioteca de componentes publicada como pacote privado via GitHub Packages. Arq
 
 ---
 
-💬 Quer conversar sobre arquitetura, design systems ou projetos? Me chama no [LinkedIn](https://linkedin.com/in/seu-usuario).
+💬 Quer conversar sobre arquitetura, design systems ou projetos? Me chama no [LinkedIn](https://www.linkedin.com/in/eduardosouzaoliveira/).
