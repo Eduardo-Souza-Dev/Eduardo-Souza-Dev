@@ -40,7 +40,7 @@ Atualmente na **PwC** como Dev Frontend, e desenvolvendo projetos próprios nas 
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 **[FreteApp](https://github.com/Eduardo-Souza-Dev)** — Marketplace de fretes
 
@@ -55,16 +55,6 @@ Plataforma que conecta clientes a motoristas de caminhão. Arquitetura full stac
 Biblioteca de componentes publicada como pacote privado via GitHub Packages. Arquitetura em três camadas (primitives → ui → composed), com Storybook, Vitest e Chromatic para testes visuais.
 
 `React 19` `Tailwind v4` `Radix UI` `CVA` `Storybook 10` `Chromatic` `Vitest`
-
----
-
-**[GestorNow](https://gestornow.com.br)** — ERP multi-tenant
-
-Sistema de gestão para locadoras de equipamentos. Laravel com multi-tenancy, sistema de permissões customizado, integração com Cloudflare R2 e notificações via WhatsApp (Evolution API).
-
-`Laravel` `PHP` `PostgreSQL` `Cloudflare R2` `Multi-tenancy` `Coolify`
-
----
 
 ### Estatísticas
 
